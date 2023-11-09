@@ -1,7 +1,6 @@
 package com.souid.base.controller;
 
 import com.souid.base.dto.UserDTO;
-import com.souid.base.model.User;
 import com.souid.base.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
